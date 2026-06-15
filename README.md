@@ -169,4 +169,4 @@ There are no results to be displayed.
 ---
 
 [View on DB Fiddle](https://www.db-fiddle.com/)
-[View on DB Fiddle](https://www.db-fiddle.com/)
+
